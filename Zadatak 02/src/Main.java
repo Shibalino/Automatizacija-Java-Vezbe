@@ -1,10 +1,11 @@
+//    Zadatak 02
+//    Napraviti program koji ce na izlazu prikazati da li je vrednost promenljive koju je korisnik uneo parna.
+//    Takodje, treba da bude prikazana uneta vrednost.
+//    Program moze biti resen sa hardkodiranom vrednoscu ili pravim unosom korisnika.
+
 import java.util.Scanner;
 
 public class Main {
-
-//    Napraviti program koji ce na izlazu prikazati da li je vrednost promenljive koju je
-//    korisnik uneo parna. Takodje treba da bude prikazana uneta vrednost.
-//    Program moze biti resen sa hardkodiranom vrednoscu ili pravim unosom korisnika.
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
