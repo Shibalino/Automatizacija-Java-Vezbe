@@ -1,4 +1,6 @@
 //Vezba 06
+//Potrebno je obezbediti da program na izlazu prikazuje samo rezultat (5) ali da sve linije koda ostanu dostupne za buduću upotrebu
+
 public class Main {
     public static void main(String[] args) {
         int a = 2, b = 3;
