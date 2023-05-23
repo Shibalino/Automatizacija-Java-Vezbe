@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Circle extends Shape{
-    double r=8;
+    double r;
     final double PI=3.14;
 
     public Circle(){
